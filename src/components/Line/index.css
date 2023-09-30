@@ -1,0 +1,24 @@
+.work-underline {
+    position: relative;
+}
+
+.work-line {
+    background: #ef3a37;
+    border: none;
+    border-radius: 2px 0 0 2px;
+    height: 3px;
+    margin-top: 12px;
+    outline: none;
+    position: absolute;
+    width: 160px;
+}
+
+/* .work-circle {
+    background: #ef3a37;
+    border-radius: 50%;
+    height: 12px;
+    margin-top: 8px;
+    left: 10rem;
+    position: absolute;
+    width: 12px;
+} */
